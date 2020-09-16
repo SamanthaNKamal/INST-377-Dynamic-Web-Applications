@@ -1,2 +1,2 @@
 # INST-377-Dynamic-Web-Applications
-Projects and assignments for INST 377 class at UMD.
+A repository for projects and assignments for INST 377 class at UMD.
