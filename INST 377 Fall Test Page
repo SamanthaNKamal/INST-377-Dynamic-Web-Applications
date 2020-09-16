@@ -8,14 +8,3 @@ h1
   font-family: Edwardian Script ITC
   
 }
-h2
-{
-  color: red;
-  font-family: Edwardian Script ITC
-}
-
-p
-{
-  color: black;
-  font-family: Curlz MT;
-}
