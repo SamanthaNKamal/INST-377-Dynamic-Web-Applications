@@ -2,9 +2,4 @@ body
 {
   background-color: pink;
 }
-h1 
-{
-  color: red;
-  font-family: Edwardian Script ITC
-  
-}
+<img src="aneela1.jpg" width= "100" height = "150" alt="Makeover 1">
